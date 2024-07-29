@@ -1,0 +1,16 @@
+streamlit
+langchain
+openai
+PyPDF2
+faiss-cpu
+tiktoken
+huggingface_hub
+sentence_transformers
+langchain
+openai
+PyPDF2
+faiss-cpu
+tiktoken
+huggingface_hub
+sentence_transformers
+langchain-community
